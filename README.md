@@ -28,3 +28,19 @@ ERC721A-Ezuki standard for nfts(nft contract that is gas optimized
 20.Can see all the members of a role at once
 21.Contract extension and have the import from the thirdweb
 22.If the default admin role is getting granted that permission and add thirdweb permisionless/enumerable.sol
+23.Add bytes public constant NickNamer_role and add nicknamer_role
+24.Public only role and add nicknamer_role
+25.Add Permission(nickNamer_role, msg.sender);
+26.Add default admin role
+27.Add nicknamer_role and add msg.sender
+28.NPX thirdweb deploy
+29.Npx thirdweb release
+30.Add thirdweb and add nfts with nicnames
+31.Once the contract is deployed it comes with a bunch of data and add variables with encrypt decrpy
+32.Add getClaimTimestamp and add the inputs and add the address and add the getrevealuri
+33.Add contract parameters, my cool nfts and add mycoolnfts
+34.Add royalty recipient and add the royalty bps which is the percent
+35.PrimarySalereceipenet and add the goerli and add the deploy now
+36.Add contract deployment
+37.Add the contract and add functions default admin role
+38.Create a web 3.0 app outside of the folder
