@@ -1,3 +1,5 @@
+Need unnecessary subscriptions to continue
+
 1.NPX thirdweb create
 2.Set up the contract[Contract]
 3.My-nft-collection
